@@ -1,11 +1,11 @@
 from flask import Flask, request, render_template, redirect
 from flask_sqlalchemy import SQLAlchemy
 
-import ssl
+# import ssl
 import json
 
-context = ssl.SSLContext(ssl.PROTOCOL_SSLv23)
-context.load_cert_chain('0.0.0.0.pem', '0.0.0.0-key.pem')
+# context = ssl.SSLContext(ssl.PROTOCOL_SSLv23)
+# context.load_cert_chain('0.0.0.0.pem', '0.0.0.0-key.pem')
 
 app = Flask(__name__)
 
@@ -34,4 +34,4 @@ def process_data():
     return "pee"
 
 if __name__ == '__main__':
-    app.run(ssl_context=context, host='0.0.0.0', port=8080)
+    app.run() #ssl_context=context, host='0.0.0.0', port=8080
