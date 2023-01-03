@@ -1,0 +1,19 @@
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]TEST, startedposition: [1.5 0.  0. ],  velocity: [0. 0. 0.]TEST, startedposition: [1.5 0.  0. ],  velocity: [0. 0. 0.]TEST, startedTEST, startedposition: [1.5 0.  0. ],  velocity: [0. 0. 0.]TEST, started
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]TEST, started
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]TEST, started
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+TEST, started
+position: [0. 0. 0.],  velocity: [0. 0. 0.]
+Running update_pos()...
+Running update_pos()...
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+TEST, started
+Running update_pos()...
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+accel_global: [0.1  0.12 0.2 ]
+TEST, started
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
