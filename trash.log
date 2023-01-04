@@ -17,3 +17,184 @@ TEST, started
 Running update_pos()...
 accel_global: [0.1  0.12 0.2 ]
 position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+Running update_pos()...
+position: [0. 0. 0.],  velocity: [0. 0. 0.]
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+TEST, started
+Running update_pos()...
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+TEST, started
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+TEST, started
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+TEST, started
+Running update_pos()...
+position: [0. 0. 0.],  velocity: [0. 0. 0.]
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+accel_global: [0.1  0.12 0.2 ]
+position: [1.50768  0.009216 0.01536 ],  velocity: [0.032  0.0384 0.064 ]
+Running update_pos()...
+accel_global: [0.1  0.12 0.2 ]
+Running update_pos()...
+position: [1.50256  0.003072 0.00512 ],  velocity: [0.016  0.0192 0.032 ]
+accel_global: [0.1  0.12 0.2 ]
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+Running update_pos()...
+position: [1.5 0.  0. ],  velocity: [0. 0. 0.]
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started
+TEST, started

@@ -1,0 +1,167 @@
+/* Setjum inn „reset“ sem fjarlægir margin og padding af öllu */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Reiknum stærð á öllum boxum sem border-box */
+  html {
+    box-sizing: border-box;
+  
+    /* Lætur skroll innan síðu taka tíma */
+    scroll-behavior: smooth;
+  }
+  
+  /* og látum erfast á allt */
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  /* Breytur sem skal nota */
+  
+  :root {
+    /* Grunn bilið okkar er 1rem == 16px */
+    --spacing: 1rem;
+    /* Hámarksbreidd á efni */
+    --max-width: 1200px;
+  
+    --color-primary: #f0f0f8;
+  
+    --color-header: #fff;
+    --color-text: #000;
+    --color-border: #ccc;
+  
+    /* Letur stillingar */
+    --font-base-body-px: 16px;
+    --font-base-size: 1rem;
+    --font-family-base: Helvetica, Arial;
+    --font-family-heading: Helvetica, Arial;
+  }
+  
+
+  /* Almennt */
+  
+  body {
+    color: var(--color-text);
+    font-size: var(--font-base-body-px);
+    line-height: 1.5;
+    font-family: var(--font-family-base);
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    color: white; 
+    background-color: #151515;
+  }
+  
+  
+  h1, h2, h3 {
+    font-family: var(--font-family-heading);
+    align-self: center; 
+  }
+
+  h1{
+    margin-top: 3rem; 
+  }
+
+  .sensors{
+    display:flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+  }
+
+  .sensor{
+    border: solid 1px; 
+    background-color: #5da552;
+    color: black; 
+    display: flex; 
+    flex-direction: column;
+    align-self: center; 
+    height: 200px; 
+    border-radius: 5px; 
+    padding: 1rem; 
+    margin: 1rem; 
+    min-width: 16rem; 
+  }
+
+  .userSelect{
+    display:flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    margin-top: 3rem; 
+  }
+
+  .userType{
+    display: flex; 
+    flex-direction: column; 
+  }
+
+ .userType >label{
+    align-self: center; 
+  }
+
+
+
+  .selectUserType{
+    text-decoration: none; 
+    border: solid 1px; 
+    background-color: #5da552;
+    color: black; 
+    font-size: 2rem;
+    font-weight: bold; 
+    width: 80%; 
+    display: flex; 
+    align-items: center; 
+    justify-items: center; 
+
+
+    height: 200px; 
+    border-radius: 5px; 
+    padding: 1rem; 
+    margin: 1rem; 
+    min-width: 16rem; 
+  }
+
+
+
+
+
+  button{
+    width: 5rem; 
+    height: 2rem; 
+    font-size: 1rem;
+    font-weight: bold; 
+  
+  }
+
+
+  header .content h1{
+    font-size: 4rem;
+  }
+  header .content p{
+    font-size: 1.5rem;
+  }
+  
+  img {
+    max-width: 100%;
+    
+  }
+  
+  .button {
+    display: inline-block;
+    background-color: var(--color-primary);
+    color: #000;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    margin-top: 1rem;
+  }
+  
+  
+  /* Layout */
+  
+  main {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  

@@ -9,13 +9,12 @@
     <!-- <script src="/socket.io/socket.io.js"></script> -->
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js" integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA==" crossorigin="anonymous"></script> -->
     <script src="https://js.pusher.com/7.2/pusher.min.js"></script>
-    <script src="{{url_for('static', filename='gyrodata.js')}}"></script>
+    <!-- <script src="{{url_for('static', filename='gyrodata.js')}}"></script> -->
+    <script src="{{url_for('static', filename='subscriber.js')}}"></script>
     
 </head>
 <body>
     <h1>MOTION TRACKING</h1>
-    <label for="submit">Record motion data</label>
-    <button id="submit">START</button>
     <label for="send_dta_to_server">Send Data To Server</label>
     <input type="text" id="dta_to_server" placeholder="5">
     <button id="send_dta_to_server">Send</button>
@@ -26,38 +25,6 @@
     </p>
 
     <section class="sensors">
-        <div class=sensor>
-            <h2>ACCELERATION:</h2>
-            <p>X=
-                <span id=accX>hallo</span>
-            </p>
-            <p>Y=
-                <span id=accY>hallo</span>
-            </p>
-            <p>Z=
-                <span id=accZ>hallo</span>
-            </p>
-        </div>
-        <div class=sensor>
-            <h2>INTERVAL:</h2>
-
-            <p>Interval:
-                <span id=interval>hallo</span>
-            </p>
-        </div>
-        <div class=sensor>
-            <h2>GYROSCOPE:</h2>
-
-            <p>X=
-                <span id=gyroX>hallo</span>
-            </p>
-            <p>Y=
-                <span id=gyroY>hallo</span>
-            </p>
-            <p>Z=
-                <span id=gyroZ>hallo</span>
-            </p>
-        </div>
         <div class=sensor>
             <h2>ORIENTATION:</h2>
 
